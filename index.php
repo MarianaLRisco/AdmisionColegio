@@ -38,7 +38,7 @@
       <nav class="navbar navbar-light background">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">
-            <img src="./imagenes/logo1.png" alt="" width="55" height="49" class="d-inline-block"><div class="d-inline-block text">
+            <img src="" alt="" width="55" height="49" class="d-inline-block"><div class="d-inline-block text">
               Colegio X
             </div>
           </a>
